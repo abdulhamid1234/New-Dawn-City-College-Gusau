@@ -1,0 +1,26 @@
+﻿body{
+    background-color: limegreen;
+}
+h1{
+    font-family: 'Global Sans Serif';
+    color: green;
+    background-color:greenyellow;
+}
+h2{
+    align-content:center;
+    color: purple;
+    background-color:papayawhip;
+}
+.welcoming{
+    text-decoration:double;
+    text-align:center;
+    text-decoration-style:wavy;
+}
+p{
+    text-shadow:inherit;
+    font-size: larger;
+    
+}
+.name{
+    font-family:'Microsoft JhengHei UI';
+}
